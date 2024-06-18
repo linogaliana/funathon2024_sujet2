@@ -1,4 +1,5 @@
-main_color <- "black"
+main_color <- "red"
+
 
 input_date <- shinyWidgets::airDatepickerInput(
   "date",

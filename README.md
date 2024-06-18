@@ -1,6 +1,6 @@
 # Funathon 2024 - Sujet 2 - Dashbord
 
-<img src="img/cockpit.png" style="width: 50%; height: 50%"/>
+Le chêne un jour dit au roseau ;
 
 ## Données
 
